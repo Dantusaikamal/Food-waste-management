@@ -1,3 +1,3 @@
-#Food waste management
+#  Food waste management
 
-(Work in progress)
+A mobile application in which users can donate food to those in need.
